@@ -62,7 +62,7 @@ export default {
     p {
         color: #495057;
         font-weight: 500;
-        opacity: 64%;
+        opacity: 0.64;
         font-size: 18px;
         line-height: 144%;
     }
